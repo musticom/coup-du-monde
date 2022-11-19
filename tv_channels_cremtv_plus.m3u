@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 640x360" tvg-logo="" group-title="beIN SPORTS AR",BEIN SPORT 640x360
+http://cdn.wanaiptv.net:2052/cremtv/abhasat1/252219
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Premium 1 HD " tvg-logo="" group-title="beIN SPORTS AR",Bein Sports Premium 1 HD 
+http://cdn.wanaiptv.net:2052/cremtv/abhasat1/252195
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Premium 2 HD " tvg-logo="" group-title="beIN SPORTS AR",Bein Sports Premium 2 HD 
+http://cdn.wanaiptv.net:2052/cremtv/abhasat1/252194
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Premium 3HD" tvg-logo="" group-title="beIN SPORTS AR",Bein Sports Premium 3HD
+http://cdn.wanaiptv.net:2052/cremtv/abhasat1/252193
+#EXTINF:-1 tvg-id="" tvg-name="AR- Bein Sports:HD4." tvg-logo="" group-title="beIN SPORTS AR",AR- Bein Sports:HD4.
+http://cdn.wanaiptv.net:2052/cremtv/abhasat1/252204
+#EXTINF:-1 tvg-id="" tvg-name="AR- Bein Sports:HD5." tvg-logo="" group-title="beIN SPORTS AR",AR- Bein Sports:HD5.
+http://cdn.wanaiptv.net:2052/cremtv/abhasat1/252202
+#EXTINF:-1 tvg-id="" tvg-name="AR- Bein Sports:HD6." tvg-logo="" group-title="beIN SPORTS AR",AR- Bein Sports:HD6.
+http://cdn.wanaiptv.net:2052/cremtv/abhasat1/252200
+#EXTINF:-1 tvg-id="" tvg-name="AR- Bein Sports:HD7." tvg-logo="" group-title="beIN SPORTS AR",AR- Bein Sports:HD7.
+http://cdn.wanaiptv.net:2052/cremtv/abhasat1/252198
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports- HD1 EN." tvg-logo="" group-title="beIN SPORTS EN",Bein Sports- HD1 EN.
+http://cdn.wanaiptv.net:2052/cremtv/abhasat1/252218
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports- HD2 EN." tvg-logo="" group-title="beIN SPORTS EN",Bein Sports- HD2 EN.
+http://cdn.wanaiptv.net:2052/cremtv/abhasat1/252217
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports- HD3 EN." tvg-logo="" group-title="beIN SPORTS EN",Bein Sports- HD3 EN.
+http://cdn.wanaiptv.net:2052/cremtv/abhasat1/252216
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports- HD4 EN." tvg-logo="" group-title="beIN SPORTS EN",Bein Sports- HD4 EN.
+http://cdn.wanaiptv.net:2052/cremtv/abhasat1/252215
+#EXTINF:-1 tvg-id="" tvg-name="beIN-SPORTS FR 1 FHD.." tvg-logo="" group-title="beIN SPORTS FR",beIN-SPORTS FR 1 FHD..
+http://cdn.wanaiptv.net:2052/cremtv/abhasat1/252209
+#EXTINF:-1 tvg-id="" tvg-name="beIN-SPORTS FR 2 FHD.." tvg-logo="" group-title="beIN SPORTS FR",beIN-SPORTS FR 2 FHD..
+http://cdn.wanaiptv.net:2052/cremtv/abhasat1/252208
+#EXTINF:-1 tvg-id="" tvg-name="beIN-SPORTS FR 3 FHD." tvg-logo="" group-title="beIN SPORTS FR",beIN-SPORTS FR 3 FHD.
+http://cdn.wanaiptv.net:2052/cremtv/abhasat1/252207
