@@ -1,37 +1,95 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 1 HD" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX1HD.png" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="## |WC| WORLD CUP ## " tvg-logo="" group-title="WORLD CUP",## |WC| WORLD CUP ## 
+http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/483892
+#EXTINF:-1 tvg-id="" tvg-name="|WC| WORLD CUP LIVE SCORE" tvg-logo="http://178.211.143.40:81/logos/WORLDCUPLOGO.png" group-title="WORLD CUP",|WC| WORLD CUP LIVE SCORE
+http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/483880
+#EXTINF:-1 tvg-id="" tvg-name="|WC| WORLD CUP HIGHLIGHT" tvg-logo="http://178.211.143.40:81/logos/WORLDCUPLOGO.png" group-title="WORLD CUP",|WC| WORLD CUP HIGHLIGHT
+http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/484783
+#EXTINF:-1 tvg-id="" tvg-name="|WC| WORLD CUP RESUME" tvg-logo="http://178.211.143.40:81/logos/WORLDCUPLOGO.png" group-title="WORLD CUP",|WC| WORLD CUP RESUME
+http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/485916
+#EXTINF:-1 tvg-id="" tvg-name="|WC| WORLD CUP STADIUM" tvg-logo="http://178.211.143.40:81/logos/WORLDCUPLOGO.png" group-title="WORLD CUP",|WC| WORLD CUP STADIUM
+http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/486254
+#EXTINF:-1 tvg-id="" tvg-name="|WC| LOCAL BEIN SPORTS MAX 1 HD" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX1HD.png" group-title="WORLD CUP",|WC| LOCAL BEIN SPORTS MAX 1 HD
+http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/484778
+#EXTINF:-1 tvg-id="" tvg-name="|WC| LOCAL BEIN SPORTS MAX 1 FHD" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX1HD.png" group-title="WORLD CUP",|WC| LOCAL BEIN SPORTS MAX 1 FHD
+http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/484817
+#EXTINF:-1 tvg-id="" tvg-name="|WC| LOCAL BEIN SPORTS MAX 2 HD" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX2HD.png" group-title="WORLD CUP",|WC| LOCAL BEIN SPORTS MAX 2 HD
+http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/484818
+#EXTINF:-1 tvg-id="" tvg-name="|WC| LOCAL BEIN SPORTS MAX 2 FHD" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX2HD.png" group-title="WORLD CUP",|WC| LOCAL BEIN SPORTS MAX 2 FHD
+http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/484782
+#EXTINF:-1 tvg-id="beinsportsmax1ar.qa" tvg-name="|WC| BEIN SPORTS MAX 1 HD" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX1HD.png" group-title="WORLD CUP",|WC| BEIN SPORTS MAX 1 HD
 http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/424273
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 2 HD" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX2HD.png" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN SPORTS MAX 2 HD" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX2HD.png" group-title="WORLD CUP",|WC| BEIN SPORTS MAX 2 HD
 http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/424272
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 3 HD" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX3HD.png" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN SPORTS MAX 3 HD" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX3HD.png" group-title="WORLD CUP",|WC| BEIN SPORTS MAX 3 HD
 http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/424271
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 4 HD" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX4HD.png" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN SPORTS MAX 4 HD" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX4HD.png" group-title="WORLD CUP",|WC| BEIN SPORTS MAX 4 HD
 http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/424270
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 5 HD" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX5HD.png" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN SPORTS MAX 5 HD" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX5HD.png" group-title="WORLD CUP",|WC| BEIN SPORTS MAX 5 HD
 http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/471971
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 6 HD" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX6HD.png" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN SPORTS MAX 6 HD" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX6HD.png" group-title="WORLD CUP",|WC| BEIN SPORTS MAX 6 HD
 http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/471970
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 1 UHD" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX1HD.png" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 1 UHD
+#EXTINF:-1 tvg-id="beinsportsmax1ar.qa" tvg-name="|WC| BEIN SPORTS MAX 1 UHD" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX1HD.png" group-title="WORLD CUP",|WC| BEIN SPORTS MAX 1 UHD
 http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/424281
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 2 UHD" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX2HD.png" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 2 UHD
+#EXTINF:-1 tvg-id="beinsportsmax2ar.qa" tvg-name="|WC| BEIN SPORTS MAX 2 UHD" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX2HD.png" group-title="WORLD CUP",|WC| BEIN SPORTS MAX 2 UHD
 http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/424280
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 3 UHD" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX3HD.png" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 3 UHD
+#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN SPORTS MAX 3 UHD" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX3HD.png" group-title="WORLD CUP",|WC| BEIN SPORTS MAX 3 UHD
 http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/424279
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 4 UHD" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX4HD.png" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 4 UHD
+#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN SPORTS MAX 4 UHD" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX4HD.png" group-title="WORLD CUP",|WC| BEIN SPORTS MAX 4 UHD
 http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/424278
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 5 UHD" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX5HD.png" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 5 UHD
+#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN SPORTS MAX 5 UHD" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX5HD.png" group-title="WORLD CUP",|WC| BEIN SPORTS MAX 5 UHD
 http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/471969
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 6 UHD" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX6HD.png" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 6 UHD
+#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN SPORTS MAX 6 UHD" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX6HD.png" group-title="WORLD CUP",|WC| BEIN SPORTS MAX 6 UHD
 http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/471968
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 1 4K" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX1HD.png" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 1 4K
+#EXTINF:-1 tvg-id="beinsportsmax1ar.qa" tvg-name="|WC| BEIN SPORTS MAX 1 4K" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX1HD.png" group-title="WORLD CUP",|WC| BEIN SPORTS MAX 1 4K
 http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/424277
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 2 4K" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX2HD.png" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 2 4K
+#EXTINF:-1 tvg-id="beinsportsmax2ar.qa" tvg-name="|WC| BEIN SPORTS MAX 2 4K" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX2HD.png" group-title="WORLD CUP",|WC| BEIN SPORTS MAX 2 4K
 http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/424276
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 3 4K" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX3HD.png" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 3 4K
+#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN SPORTS MAX 3 4K" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX3HD.png" group-title="WORLD CUP",|WC| BEIN SPORTS MAX 3 4K
 http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/424275
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 4 4K" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX4HD.png" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 4 4K
+#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN SPORTS MAX 4 4K" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX4HD.png" group-title="WORLD CUP",|WC| BEIN SPORTS MAX 4 4K
 http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/424274
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 5 4K" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX5HD.png" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 5 4K
+#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN SPORTS MAX 5 4K" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX5HD.png" group-title="WORLD CUP",|WC| BEIN SPORTS MAX 5 4K
 http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/471967
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 6 4K" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX6HD.png" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 6 4K
+#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN SPORTS MAX 6 4K" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX6HD.png" group-title="WORLD CUP",|WC| BEIN SPORTS MAX 6 4K
 http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/471966
+#EXTINF:-1 tvg-id="beinsportsmax1ar.qa" tvg-name="|WC| BEIN SPORTS MAX 1 SD" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX1HD.png" group-title="WORLD CUP",|WC| BEIN SPORTS MAX 1 SD
+http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/424269
+#EXTINF:-1 tvg-id="beinsportsmax2ar.qa" tvg-name="|WC| BEIN SPORTS MAX 2 SD" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX2HD.png" group-title="WORLD CUP",|WC| BEIN SPORTS MAX 2 SD
+http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/424268
+#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN SPORTS MAX 3 SD" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX3HD.png" group-title="WORLD CUP",|WC| BEIN SPORTS MAX 3 SD
+http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/424267
+#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN SPORTS MAX 4 SD" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX4HD.png" group-title="WORLD CUP",|WC| BEIN SPORTS MAX 4 SD
+http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/424266
+#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN SPORTS MAX 5 SD" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX5HD.png" group-title="WORLD CUP",|WC| BEIN SPORTS MAX 5 SD
+http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/471965
+#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN SPORTS MAX 6 SD" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX6HD.png" group-title="WORLD CUP",|WC| BEIN SPORTS MAX 6 SD
+http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/471964
+#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN SPORTS MAX 1 HD LOCAL" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX1HD.png" group-title="WORLD CUP",|WC| BEIN SPORTS MAX 1 HD LOCAL
+http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/484596
+#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN SPORTS MAX 2 HD LOCAL" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX2HD.png" group-title="WORLD CUP",|WC| BEIN SPORTS MAX 2 HD LOCAL
+http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/484595
+#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN SPORTS MAX 3 HD LOCAL" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX3HD.png" group-title="WORLD CUP",|WC| BEIN SPORTS MAX 3 HD LOCAL
+http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/484594
+#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN SPORTS MAX 4 HD LOCAL" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX4HD.png" group-title="WORLD CUP",|WC| BEIN SPORTS MAX 4 HD LOCAL
+http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/484593
+#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN SPORTS MAX 5 HD LOCAL" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX5HD.png" group-title="WORLD CUP",|WC| BEIN SPORTS MAX 5 HD LOCAL
+http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/484592
+#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN SPORTS MAX 6 HD LOCAL" tvg-logo="http://103.161.34.214:81/logos/FRENCH/SPORTS/BEINSPORTMAX6HD.png" group-title="WORLD CUP",|WC| BEIN SPORTS MAX 6 HD LOCAL
+http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/484591
+#EXTINF:-1 tvg-id="" tvg-name="|WC| ALKASS EXTRA 1 4K" tvg-logo="" group-title="WORLD CUP",|WC| ALKASS EXTRA 1 4K
+http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/486547
+#EXTINF:-1 tvg-id="" tvg-name="|WC| ALKASS EXTRA 2 4K" tvg-logo="" group-title="WORLD CUP",|WC| ALKASS EXTRA 2 4K
+http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/486546
+#EXTINF:-1 tvg-id="" tvg-name="|WC| ALKASS EXTRA 1 FHD" tvg-logo="" group-title="WORLD CUP",|WC| ALKASS EXTRA 1 FHD
+http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/486545
+#EXTINF:-1 tvg-id="" tvg-name="|WC| ALKASS EXTRA 2 FHD" tvg-logo="" group-title="WORLD CUP",|WC| ALKASS EXTRA 2 FHD
+http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/486544
+#EXTINF:-1 tvg-id="" tvg-name="|WC| ALKASS EXTRA 1 HD" tvg-logo="" group-title="WORLD CUP",|WC| ALKASS EXTRA 1 HD
+http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/486543
+#EXTINF:-1 tvg-id="" tvg-name="|WC| ALKASS EXTRA 2 HD" tvg-logo="" group-title="WORLD CUP",|WC| ALKASS EXTRA 2 HD
+http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/486542
+#EXTINF:-1 tvg-id="" tvg-name="|WC| ALKASS EXTRA 1 SD" tvg-logo="" group-title="WORLD CUP",|WC| ALKASS EXTRA 1 SD
+http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/486541
+#EXTINF:-1 tvg-id="" tvg-name="|WC| ALKASS EXTRA 2 SD" tvg-logo="" group-title="WORLD CUP",|WC| ALKASS EXTRA 2 SD
+http://line.ottcst.com:80/VGSLEG7UKM/ZHKD3MQZDV/486540
